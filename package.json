@@ -1,0 +1,16 @@
+{
+  "name": "yiff-sampler",
+  "version": "1.0.0",
+  "description": "Dear future employers and grant granters, please ignore this repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "parabirb",
+  "license": "Unlicense",
+  "dependencies": {
+    "@ffmpeg/core": "^0.10.0",
+    "@ffmpeg/ffmpeg": "^0.10.1",
+    "node-fetch": "^2.6.7"
+  }
+}
